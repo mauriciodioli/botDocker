@@ -1,2 +1,0 @@
-# botDocker
-bot of test
